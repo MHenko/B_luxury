@@ -2,6 +2,7 @@ body {
     font-family: 'Montserrat', sans-serif;
     background: white;
     box-sizing: none;
+    overflow-y: hidden;
 }
 
 /*------------------------ HEADER---------------*/
